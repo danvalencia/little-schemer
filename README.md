@@ -1,20 +1,12 @@
 # little-schemer
 
-FIXME: description
+Clojure implementation of "The little Schemer's" examples.
 
 ## Installation
 
-Download from http://example.com/FIXME.
-
 ## Usage
 
-FIXME: explanation
-
-    $ java -jar little-schemer-0.1.0-standalone.jar [args]
-
 ## Options
-
-FIXME: listing of options this app accepts.
 
 ## Examples
 
@@ -29,8 +21,6 @@ FIXME: listing of options this app accepts.
 ### Might be Useful
 
 ## License
-
-Copyright © 2015 FIXME
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
